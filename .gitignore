@@ -1,0 +1,4 @@
+node_modules
+.apprc
+app.db
+package-lock.json
