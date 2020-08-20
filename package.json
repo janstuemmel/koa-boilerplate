@@ -27,7 +27,7 @@
   "license": "ISC",
   "dependencies": {
     "basic-auth": "^2.0.1",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
